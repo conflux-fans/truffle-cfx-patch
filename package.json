@@ -1,0 +1,17 @@
+{
+  "name": "truffle-cfx-patch",
+  "version": "0.1.1-alpha",
+  "description": "truffle-cfx-patch is used for developing conflux dapp with @truffle/xxx packages in your project, it will overwrite address relating function, such as transaction formatting, address encoding and so on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers-cfx-patch": "^0.1.1-delta"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
